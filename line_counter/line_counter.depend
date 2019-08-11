@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430680682 source:c:\erikprogram\line_counter\line_counter - new\main.cpp
+	<iostream>
+	<dirent.h>
+
